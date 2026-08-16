@@ -1,0 +1,12 @@
+*.log
+*.tar.gz
+backups/
+
+.DS_Store
+*.swp
+*~*.log
+*.tar.gz
+backups/
+
+.DS_Store
+*.swp
